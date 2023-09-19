@@ -1,4 +1,4 @@
 package Materias;
 
-public class TelaAgendamento {
+public class ChatBot {
 }
