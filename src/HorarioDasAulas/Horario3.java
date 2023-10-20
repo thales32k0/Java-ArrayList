@@ -1,6 +1,8 @@
 package HorarioDasAulas;
-  
+
   public class Horario3 {
+    
+     public static void main(String[] args) {
 
     ArrayList<String> HorarioOrientaçãoObjeto = new ArrayList<String>();
 
@@ -16,7 +18,9 @@ package HorarioDasAulas;
     HorarioOrientaçãoObjeto.add(Construtores 10:00 as 11:00);
     HorarioOrientaçãoObjeto.add(Associação 11:00 as 12:00);
        
+
         for (String horario : HorarioOrientaçãoObjeto) {
-            System.out.println(horario);                          
-  
+            System.out.println(horario);      
+  }
+ }          
 }
