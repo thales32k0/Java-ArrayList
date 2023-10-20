@@ -1,6 +1,8 @@
 package Aulas;
   public class Java {
     
+     public static void main(String[] args) {
+    
     ArrayList<String> listaDeAulas = new ArrayList<String>();
 
     listaDeAulas.add("Sintaxe básica de Java");
@@ -19,4 +21,5 @@ package Aulas;
     for (String nome : listaDeAulas) {
         System.out.println(aulas);
     }
+  }
 }
