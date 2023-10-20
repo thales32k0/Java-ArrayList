@@ -1,6 +1,8 @@
 package HorarioDasAulas;
-  
+
   public class Horario3 {
+    
+     public static void main(String[] args) {
 
     ArrayList<String> HorarioOrientaçãoObjeto = new ArrayList<String>();
 
@@ -18,5 +20,6 @@ package HorarioDasAulas;
        
         for (String aulas : HorarioOrientaçãoObjeto) {
             System.out.println(aulas);                          
-  
+   }
+  }
 }
