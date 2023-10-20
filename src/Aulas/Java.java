@@ -18,7 +18,7 @@ package Aulas;
     listaDeAulas.add("Interfaces Gráficas de Usuário");
     listaDeAulas.add("Desenvolvimento Web em Java:");
 
-    for (String nome : listaDeAulas) {
+    for (String aulas : listaDeAulas) {
         System.out.println(aulas);
     }
   }
