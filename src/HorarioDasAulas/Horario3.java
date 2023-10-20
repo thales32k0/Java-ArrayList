@@ -18,8 +18,9 @@ package HorarioDasAulas;
     HorarioOrientaçãoObjeto.add(Construtores 10:00 as 11:00);
     HorarioOrientaçãoObjeto.add(Associação 11:00 as 12:00);
        
-        for (String aulas : HorarioOrientaçãoObjeto) {
-            System.out.println(aulas);                          
-   }
+
+        for (String horario : HorarioOrientaçãoObjeto) {
+            System.out.println(horario);      
   }
+ }          
 }
