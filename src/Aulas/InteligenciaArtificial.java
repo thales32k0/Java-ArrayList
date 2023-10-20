@@ -9,8 +9,8 @@ package Aulas;
       listaDeAulas.add("Processamento de linguagem natural");
       listaDeAulas.add("Visão Computacional");
 
-      for (String nome : listaDeAulas) {
-            System.out.println(nome);
+      for (String aulas : listaDeAulas) {
+            System.out.println(aulas);
     
       }
     }
